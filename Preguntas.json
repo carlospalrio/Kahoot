@@ -1,0 +1,31 @@
+{
+    "Preguntas": {
+      "1": {
+        "0": "¿Cuál es la capital de Francia?",
+        "A": "Berlín",
+        "B": "Madrid",
+        "C": "París",
+        "D": "Londres"
+      },
+      "2": {
+        "0": "¿Cuántos continentes hay en el mundo?",
+        "A": "5",
+        "B": "6",
+        "C": "7",
+        "D": "8"
+      },
+      "3": {
+        "0": "¿Qué es la fotosíntesis?",
+        "A": "Un proceso químico",
+        "B": "Un proceso biológico",
+        "C": "Un proceso físico",
+        "D": "Un proceso ecológico"
+      }
+    },
+    "Respuestas": {
+      "1": "C",  
+      "2": "C",  
+      "3": "B"   
+    }
+  }
+  
